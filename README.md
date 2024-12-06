@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Yang. I am enthusiastic about building software infrastructure of all kinds. In my free time, I really enjoy swimming and travelling.
+
+- 🌱 I’m currently learning Rust and Distributed Systems.
+- 💬 Ask me about the Database system I just developed for the CSC2234 course project at UofT.
+- 🤔 I’m looking for help with setting up NeoVim.
